@@ -1,0 +1,106 @@
+[
+{
+    "model": "catalog.product",
+    "pk": 9,
+    "fields": {
+        "name": "Смартфон Galaxy S23",
+        "description": "Современный смартфон",
+        "image": "",
+        "category": 5,
+        "price": "65000.00",
+        "created_at": "2026-06-30T14:13:12.452Z",
+        "updated_at": "2026-06-30T14:13:12.452Z"
+    }
+},
+{
+    "model": "catalog.product",
+    "pk": 10,
+    "fields": {
+        "name": "Ноутбук MacBook Pro",
+        "description": "Мощный ноутбук",
+        "image": "",
+        "category": 5,
+        "price": "120000.00",
+        "created_at": "2026-06-30T14:13:12.454Z",
+        "updated_at": "2026-06-30T14:13:12.454Z"
+    }
+},
+{
+    "model": "catalog.product",
+    "pk": 11,
+    "fields": {
+        "name": "Наушники Sony",
+        "description": "Беспроводные наушники",
+        "image": "",
+        "category": 5,
+        "price": "28000.00",
+        "created_at": "2026-06-30T14:13:12.455Z",
+        "updated_at": "2026-06-30T14:13:12.455Z"
+    }
+},
+{
+    "model": "catalog.product",
+    "pk": 12,
+    "fields": {
+        "name": "Футболка хлопковая",
+        "description": "Мягкая футболка",
+        "image": "",
+        "category": 6,
+        "price": "1500.00",
+        "created_at": "2026-06-30T14:13:12.456Z",
+        "updated_at": "2026-06-30T14:13:12.456Z"
+    }
+},
+{
+    "model": "catalog.product",
+    "pk": 13,
+    "fields": {
+        "name": "Джинсы классические",
+        "description": "Классические джинсы",
+        "image": "",
+        "category": 6,
+        "price": "4500.00",
+        "created_at": "2026-06-30T14:13:12.457Z",
+        "updated_at": "2026-06-30T14:13:12.457Z"
+    }
+},
+{
+    "model": "catalog.product",
+    "pk": 14,
+    "fields": {
+        "name": "Куртка зимняя",
+        "description": "Теплая куртка",
+        "image": "",
+        "category": 6,
+        "price": "12000.00",
+        "created_at": "2026-06-30T14:13:12.458Z",
+        "updated_at": "2026-06-30T14:13:12.458Z"
+    }
+},
+{
+    "model": "catalog.product",
+    "pk": 15,
+    "fields": {
+        "name": "Python. Полное руководство",
+        "description": "Книга по Python",
+        "image": "",
+        "category": 7,
+        "price": "2500.00",
+        "created_at": "2026-06-30T14:13:12.459Z",
+        "updated_at": "2026-06-30T14:13:12.459Z"
+    }
+},
+{
+    "model": "catalog.product",
+    "pk": 16,
+    "fields": {
+        "name": "Садовый инвентарь",
+        "description": "Набор инструментов",
+        "image": "",
+        "category": 8,
+        "price": "3500.00",
+        "created_at": "2026-06-30T14:13:12.460Z",
+        "updated_at": "2026-06-30T14:13:12.460Z"
+    }
+}
+]
